@@ -1,10 +1,8 @@
 <!-- ✨ README by Nayara Lima ✨ -->
 
-# 🌷 Olá, eu sou a Nayara Lima! 💻✨  
+# 🌷 Olá, eu sou a Nayara Lima 
 
-<img align="right" alt="Coding girl kawaii" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-### 💖 Co-Tech Leader & Full Stack Developer | Angular Lover 💅  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=f6c2e7&center=false&vCenter=true&repeat=true&width=600&lines=Co-Tech+Leader+%26+Full+Stack+Developer;Angular+Lover+%F0%9F%92%85;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%96" alt="Typing SVG" /></a> 
 
 📍 Rio de Janeiro, Brasil  
 📧 [nayaralima@po.li.ufrj.br](mailto:nayaralima@po.li.ufrj.br)  
@@ -55,14 +53,14 @@ Adoro criar **experiências encantadoras** no front-end com **Angular** e desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f6c2e7&height=70&section=footer" />
 
 ## 🎀 Estatísticas do GitHub  
 
 <div align="center">
   
-![Nayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayest&show_icons=true&theme=rose_pine&hide_border=true&title_color=f6c2e7&icon_color=f1a8d1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayest&layout=compact&theme=rose_pine&hide_border=true&title_color=f6c2e7)
+![Nayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayaralimaa&show_icons=true&theme=rose_pine&hide_border=true&title_color=f6c2e7&icon_color=f1a8d1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaralimaa&layout=compact&theme=rose_pine&hide_border=true&title_color=f6c2e7)
 
 </div>
 
