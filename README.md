@@ -1,6 +1,9 @@
 <!-- ✨ README by Nayara Lima ✨ -->
 
 # 🌷 Olá, eu sou a Nayara Lima! 💻✨  
+
+<img align="right" alt="Coding girl" width="280" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
 ### 💖 Co-Tech Leader & Full Stack Developer | Angular Lover 💅  
 
 📍 Rio de Janeiro, Brasil  
@@ -47,8 +50,8 @@ Adoro criar **experiências encantadoras** no front-end com **Angular** e desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
 </div>
 
@@ -79,7 +82,7 @@ Adoro criar **experiências encantadoras** no front-end com **Angular** e desenv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayara%20Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayesteves)
 [![Email](https://img.shields.io/badge/Email-nayaralima%40po.li.ufrj.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayaralima@po.li.ufrj.br)
-[![GitHub](https://img.shields.io/badge/GitHub-nayest-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayaralimaa)
+[![GitHub](https://img.shields.io/badge/GitHub-nayaralimaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayaralimaa)
 
 ---
 
