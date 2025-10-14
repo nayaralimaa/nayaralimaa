@@ -2,7 +2,7 @@
 
 # 🌷 Olá, eu sou a Nayara Lima! 💻✨  
 
-<img align="right" alt="Coding girl" width="280" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="Coding girl kawaii" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 💖 Co-Tech Leader & Full Stack Developer | Angular Lover 💅  
 
