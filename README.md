@@ -78,7 +78,7 @@ Adoro criar **experiências encantadoras** no front-end com **Angular** e desenv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayara%20Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayesteves)
 [![Email](https://img.shields.io/badge/Email-nayaralima%40po.li.ufrj.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayaralima@po.li.ufrj.br)
-[![GitHub](https://img.shields.io/badge/GitHub-nayaralimaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayaralimaa)
+[![GitHub](https://img.shields.io/badge/GitHub-nayaralimaa-f6c2e7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayaralimaa)
 
 ---
 
