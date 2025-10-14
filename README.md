@@ -56,12 +56,10 @@ Adoro criar **experiências encantadoras** no front-end com **Angular** e desenv
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f6c2e7&height=70&section=footer" />
 
 ## 🎀 Estatísticas do GitHub  
-
-<div align="center">
   
-![Nayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayaralimaa&show_icons=true&theme=rose_pine&hide_border=true&title_color=f6c2e7&icon_color=f1a8d1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaralimaa&layout=compact&theme=rose_pine&hide_border=true&title_color=f6c2e7)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayaralimaa&show_icons=true&theme=rose_pine&hide_border=true&title_color=f6c2e7&icon_color=f1a8d1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaralimaa&layout=compact&theme=rose_pine&hide_border=true&title_color=f6c2e7"/>
 </div>
 
 ---
