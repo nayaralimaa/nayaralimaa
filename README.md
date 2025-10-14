@@ -1,7 +1,7 @@
 # 💖 Olá, sou a Nayara Lima! 💻✨
 
 👩‍💻 **Co-Tech Leader & Full Stack Developer**  
-📍 Rio de Janeiro, RJ | 📧 nayaralima@po.li.ufrj.br
+📍 Rio de Janeiro, RJ | 📧 nayaralima@po.li.ufrj.br  
 🔗 [LinkedIn](https://linkedin.com/in/nayesteves)
 
 ---
