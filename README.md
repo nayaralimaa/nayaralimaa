@@ -13,7 +13,7 @@
 
 ## 🌸 Sobre Mim  
 
-Sou **Co-Tech Leader** e **Full Stack Developer** apaixonada por tecnologia, design e pessoas.  
+Sou **Full Stack Developer** apaixonada por tecnologia, design e pessoas.  
 Adoro criar **experiências encantadoras** no front-end com **Angular** e desenvolver **soluções escaláveis** no back-end com **Node.js / NestJS**.  
 
 💡 Acredito que código é arte, liderança é empatia e tecnologia é uma ferramenta para transformar o mundo.  
